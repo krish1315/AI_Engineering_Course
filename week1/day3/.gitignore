@@ -1,0 +1,19 @@
+# Environment files
+.env
+**/.env
+*.env
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments (dot-prefixed only; venv/ here is uv workspace code)
+.venv/
+
+# Editors
+.vscode/
+.idea/
