@@ -1,0 +1,6 @@
+uv add :
+    pypdf
+    python-docx
+    groq
+    python-dotenv
+    pydantic
